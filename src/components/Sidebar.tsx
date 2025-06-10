@@ -1,4 +1,3 @@
-
 import {
   Sidebar,
   SidebarContent,
@@ -33,7 +32,7 @@ export function AppSidebar() {
             <Smartphone className="h-5 w-5" />
           </div>
           <div>
-            <h1 className="text-lg font-semibold">TechAssist</h1>
+            <h1 className="text-lg font-semibold text-yellow-500 dark:text-yellow-300">TechAssist</h1>
             <p className="text-xs text-muted-foreground">Sistema de Assistência</p>
           </div>
         </div>
